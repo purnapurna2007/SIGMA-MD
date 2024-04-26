@@ -68,6 +68,8 @@
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://replit.com/@Mehar-Zubair/SIGMA-MD?v=1"
+   "value": "26_04_2024_SIGMA_MD_rWPmsFWZ_MAHER_ZUBAIR"
+   
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
